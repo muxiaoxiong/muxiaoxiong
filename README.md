@@ -6,7 +6,7 @@
 
   <!-- 一只小熊 -->
   <picture>
-    <img src="https://github.com/muxiaoxiong/muxiaoxiong/blob/main/assets/p1.png" />
+    <img src="https://github.com/muxiaoxiong/muxiaoxiong/blob/main/assets/p1.png" width="200" height="200" />
   </picture>
   
   <!-- profile logo 个人资料徽标 -->
