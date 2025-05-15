@@ -11,6 +11,11 @@
     <img src="https://komarev.com/ghpvc/?username=muxiaoxiong&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
-  ![](https://raw.githubusercontent.com/muxiaoxiong/muxiaoxiong/main/assets/github-contribution-grid-snake.svg)
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/muxiaoxiong/muxiaoxiong/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/muxiaoxiong/muxiaoxiong/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/muxiaoxiong/muxiaoxiong/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 
 </div>
