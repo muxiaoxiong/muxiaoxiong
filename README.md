@@ -3,7 +3,8 @@
   <!-- dynamic typing effect 动态打字效果 -->
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello%EF%BC%8Cmuxiaoxiong;小熊同学今天也要开心!&center=true&size=27)](https://git.io/typing-svg)
-
+  
+</div>
  ## About Me  
 - 💬 I am a ​​Algorithm Engineer​​, WuHan.
 
@@ -24,4 +25,4 @@
   <img alt="github contribution grid snake animation" src="https://github.com/muxiaoxiong/muxiaoxiong/blob/output/github-contribution-grid-snake.svg">
  </picture>
 
-</div>
+
