@@ -4,10 +4,12 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello%EF%BC%8Cmuxiaoxiong;小熊同学今天也要开心!&center=true&size=27)](https://git.io/typing-svg)
 
-  <!-- 一只小熊 -->
-  <picture>
-    <img src="https://github.com/muxiaoxiong/muxiaoxiong/blob/main/assets/p1.jpg" width="288" height="216">
-  </picture>
+ ## About Me  
+- 💬 I am a ​​Algorithm Engineer​​, WuHan.
+
+- ⭐ Datawhale Members.
+
+- 📧 You can reach me at: xiongweinie@foxmail.com
   
   <!-- profile logo 个人资料徽标 -->
   <div>
