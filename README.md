@@ -6,7 +6,7 @@
 
   <!-- 一只小熊 -->
   <picture>
-    <img alt="a bear" src="./assets/p1.jpg">
+    <img alt="a bear" src="https://github.com/muxiaoxiong/muxiaoxiong/blob/main/assets/p1.jpg">
   </picture>
 
   <!-- profile logo 个人资料徽标 -->
