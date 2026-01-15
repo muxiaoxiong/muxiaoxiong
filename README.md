@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello%EF%BC%8Cmuxiaoxiong;小熊要提醒兔子今天也要开心!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello%EF%BC%8Cmuxiaoxiong;小熊今天也要开心!&center=true&size=27)](https://git.io/typing-svg)
 
   <!-- 一只小熊 -->
   <picture>
