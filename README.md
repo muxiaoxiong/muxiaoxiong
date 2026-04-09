@@ -14,11 +14,9 @@
   <img src="https://komare.com/ghpvc/?username=muxiaoxiong&label=Views&color=orange&style=flat-square" alt="访问量统计" />
 </div>
 
-<!-- 邮箱（单独一行 居中显示） -->
-<div style="margin: 10px 0;">
-  <a href="mailto:你的邮箱地址@gmail.com">
-    <img src="https://img.shields.io/badge/📮%20邮箱-%E8%81%94%E7%AE%80%E4%BB%B6-D14836?style=flat-square&logo=gmail&logoColor=white" alt="邮箱联系" />
-  </a>
+<!-- 邮箱（纯文本简洁版） -->
+<div style="font-size: 16px; margin: 10px 0;">
+  📧 Email: 1335008986@qq.com
 </div>
 
 <!-- 贪吃蛇动画 -->
